@@ -10,7 +10,7 @@ This is the source code for the AskMeIdentity web application. The application p
 
 # File Structure
 
-#index.html: The main HTML file containing the structure and content of the website.
+index.html: The main HTML file containing the structure and content of the website.
 
-#assets: Contains all the images and other assets used in the project.
+assets: Contains all the images and other assets used in the project.
 
